@@ -2,10 +2,6 @@ import { Button } from "@/components/ui/button";
 import { ShoppingCart, Gavel, Mail, Infinity, Coins } from "lucide-react";
 
 export default function Hero() {
-  const scrollToPricing = () => {
-    const pricingSection = document.getElementById("pricing");
-    pricingSection?.scrollIntoView({ behavior: "smooth" });
-  };
 
   return (
     <section className="relative min-h-screen flex items-center justify-center overflow-hidden">
@@ -40,12 +36,14 @@ export default function Hero() {
 
         <div className="flex justify-center">
           <Button
-            onClick={scrollToPricing}
+            asChild
             size="lg"
             className="bg-gradient-to-r from-purple-600 to-cyan-600 hover:from-purple-500 hover:to-cyan-500 text-white font-semibold px-8 py-6 rounded-full shadow-lg shadow-purple-500/50 hover:shadow-purple-500/70 transition-all duration-300 hover:scale-105"
             data-testid="button-get-quote"
           >
-            Get a quote
+            <a href="https://calendly.com/xyroaqw/30min" target="_blank" rel="noopener noreferrer">
+              Get a quote
+            </a>
           </Button>
         </div>
       </div>
