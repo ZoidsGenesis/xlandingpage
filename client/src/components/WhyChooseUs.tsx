@@ -4,24 +4,24 @@ import { Card } from "@/components/ui/card";
 const reasons = [
   {
     icon: DollarSign,
-    title: "No-scope-creep mode",
-    subtitle: "Fixed fee",
+    title: "No price creeps",
+    subtitle: "",
     description:
-      "You get a clear SOW, milestones, and a guaranteed price before we queue the build.",
+      "Get a fixed price as soon as scope is finalized",
   },
   {
     icon: Shield,
     title: "Wipe-proof reliability",
-    subtitle: "Battle-tested",
+    subtitle: "",
     description:
       "Rate-limit handling, idempotent actions (no double credits/clicks), error logging, and scheduled backups.",
   },
   {
     icon: Rocket,
-    title: "Ready to deploy",
-    subtitle: "Fast support",
+    title: "Ready to deploy, fast support",
+    subtitle: "",
     description:
-      "Hosting-ready code, step-by-step docs, and optional maintenance so your bot stays meta.",
+      "Hosting-ready code, step-by-step docs, and say day maintenance TAT",
   },
 ];
 

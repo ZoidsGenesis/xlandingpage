@@ -31,15 +31,11 @@ export default function Hero() {
 
       <div className="relative z-10 max-w-6xl mx-auto px-4 md:px-8 lg:px-12 py-20 text-center">
         <h1 className="font-pixel text-2xl sm:text-3xl md:text-4xl lg:text-5xl text-white leading-relaxed mb-8 tracking-wide drop-shadow-[0_0_20px_rgba(168,85,247,0.4)]">
-          Get a custom Discord<br className="sm:hidden" /> bot in 7 days
+          Ship a custom Discord<br className="sm:hidden" /> bot in 7 days
         </h1>
         
-        <p className="text-lg md:text-xl lg:text-2xl text-gray-300 max-w-3xl mx-auto mb-4 font-light">
-          Automate roles, logging, tickets, economy, and shops.
-        </p>
-        
-        <p className="text-base md:text-lg text-gray-400 max-w-2xl mx-auto mb-12">
-          Fixed-fee & ready to host
+        <p className="text-lg md:text-xl lg:text-2xl text-gray-300 max-w-3xl mx-auto mb-12 font-light">
+          Level up your server with battle-tested automations: roles, raids, tickets, economy, and analytics. Fixed-fee builds, clean slash commands, hosting-ready code.
         </p>
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
@@ -49,7 +45,7 @@ export default function Hero() {
             className="bg-gradient-to-r from-purple-600 to-cyan-600 hover:from-purple-500 hover:to-cyan-500 text-white font-semibold px-8 py-6 rounded-full shadow-lg shadow-purple-500/50 hover:shadow-purple-500/70 transition-all duration-300 hover:scale-105"
             data-testid="button-get-quote"
           >
-            Get my fixed quote
+            Get a quote
           </Button>
           
           <Button

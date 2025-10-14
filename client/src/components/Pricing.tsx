@@ -15,10 +15,10 @@ export default function Pricing() {
 
         <div className="mb-8">
           <p className="text-5xl md:text-6xl lg:text-7xl font-bold bg-gradient-to-r from-purple-400 to-cyan-400 bg-clip-text text-transparent mb-4">
-            Starting at $100
+            Starting at $200
           </p>
           <p className="text-lg md:text-xl text-gray-400">
-            Most servers go live in 7–14 days. Book a 20-min call for a same-day quote.
+            Most servers go live in 7–14 days. Book a 20-min call for a same-day quote and see a demo of the bots we've made
           </p>
         </div>
 
