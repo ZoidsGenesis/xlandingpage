@@ -14,7 +14,7 @@ export default function Pricing() {
         </h2>
 
         <div>
-          <p className="text-5xl md:text-6xl lg:text-7xl font-bold bg-gradient-to-r from-purple-400 to-cyan-400 bg-clip-text text-transparent mb-4">
+          <p className="text-5xl md:text-6xl lg:text-7xl font-bold bg-gradient-to-r from-purple-400 to-cyan-400 bg-clip-text text-transparent mb-4 leading-tight pb-2">
             Starting at $200
           </p>
           <p className="text-lg md:text-xl text-gray-400">
