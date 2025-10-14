@@ -1,0 +1,5 @@
+server/
+shared/
+node_modules/
+.replit
+replit.nix
