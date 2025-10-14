@@ -13,7 +13,7 @@ export default function Pricing() {
           </span>
         </h2>
 
-        <div className="mb-8">
+        <div>
           <p className="text-5xl md:text-6xl lg:text-7xl font-bold bg-gradient-to-r from-purple-400 to-cyan-400 bg-clip-text text-transparent mb-4">
             Starting at $200
           </p>
@@ -21,17 +21,6 @@ export default function Pricing() {
             Most servers go live in 7–14 days. Book a 20-min call for a same-day quote and see a demo of the bots we've made
           </p>
         </div>
-
-        <Button
-          asChild
-          size="lg"
-          className="bg-gradient-to-r from-purple-600 to-cyan-600 hover:from-purple-500 hover:to-cyan-500 text-white font-semibold px-10 py-6 rounded-full shadow-lg shadow-purple-500/50 hover:shadow-purple-500/70 transition-all duration-300 hover:scale-105"
-          data-testid="button-book-demo-pricing"
-        >
-          <a href="https://calendly.com/xyroaqw/30min" target="_blank" rel="noopener noreferrer">
-            Book a demo →
-          </a>
-        </Button>
       </div>
     </section>
   );
