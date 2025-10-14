@@ -1,0 +1,114 @@
+Prompt:
+Create a modern, responsive landing page for a Discord bot development service inspired by the provided mockup image.
+
+Design Style:
+
+Smooth gradient background (deep purple → blue).
+
+Pixel-style or futuristic text similar to the mockup.
+
+Soft shadows and rounded buttons.
+
+Subtle floating 3D icons around the hero section (matching shopping cart, gavel, mail, coin, infinity icons).
+
+Smooth scroll transitions between sections.
+
+Page Structure:
+
+1. Hero Section
+
+Heading: “Ship a custom Discord bot in 7 days — no RNG”
+
+Subheading: “Level up your server with battle-tested automations: roles, raids, tickets, economy, and analytics. Fixed-fee builds, clean slash commands, hosting-ready code.”
+
+CTA Button: “Get my fixed quote” → smooth scrolls to the “Pricing” section.
+
+Secondary CTA Button: “Book a demo” linking to https://calendly.com/xyroaqw/30min
+.
+
+2. “What You Get” Section
+
+Split into four columns with short descriptions and icons for each category:
+
+Ops & Control
+
+Advanced Moderation
+
+Ticket System
+
+Welcome/Goodbye Messages
+
+Custom Command Builder
+
+Auto-Responder
+
+Engage & Reward
+
+Full Economy System
+
+Level & XP System
+
+Inventory System
+
+Giveaway Bot
+
+Shops
+
+Role Rewards
+
+Play & Events
+
+Raid Scheduler
+
+Tournament Manager
+
+Music Bot
+
+Trivia Games
+
+Mini-Games
+
+Data & AI
+
+Game Stats Tracker
+
+Server Analytics
+
+Social Media Monitor
+
+Website Status Checker
+
+AI Chatbot
+
+Text under all sections:
+
+Every build ships with pretty embeds, logs, and a quickstart handover.
+
+3. “Why Choose Us” Section
+
+Three columns, each with an icon and short paragraph:
+
+No-scope-creep mode (fixed fee)
+
+You get a clear SOW, milestones, and a guaranteed price before we queue the build.
+
+Wipe-proof reliability
+
+Rate-limit handling, idempotent actions (no double credits/clicks), error logging, and scheduled backups.
+
+Ready to deploy, fast support
+
+Hosting-ready code, step-by-step docs, and optional maintenance so your bot stays meta.
+
+4. Pricing Section
+
+Large centered text:
+
+Starting at $100
+Most servers go live in 7–14 days. Book a 20-min call for a same-day quote.
+
+CTA Button: Book a demo → links to https://calendly.com/xyroaqw/30min
+.
+
+Footer:
+Include minimal contact info or Discord tag
