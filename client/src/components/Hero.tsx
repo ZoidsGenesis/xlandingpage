@@ -38,7 +38,7 @@ export default function Hero() {
           Level up your server with battle-tested automations: roles, raids, tickets, economy, and analytics. Fixed-fee builds, clean slash commands, hosting-ready code.
         </p>
 
-        <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
+        <div className="flex justify-center">
           <Button
             onClick={scrollToPricing}
             size="lg"
@@ -46,18 +46,6 @@ export default function Hero() {
             data-testid="button-get-quote"
           >
             Get a quote
-          </Button>
-          
-          <Button
-            asChild
-            size="lg"
-            variant="outline"
-            className="bg-white/10 backdrop-blur-sm border-2 border-white/30 text-white font-semibold px-8 py-6 rounded-full hover:bg-white/20 transition-all duration-300"
-            data-testid="button-book-demo"
-          >
-            <a href="https://calendly.com/xyroaqw/30min" target="_blank" rel="noopener noreferrer">
-              Book a demo
-            </a>
           </Button>
         </div>
       </div>
