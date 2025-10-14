@@ -40,7 +40,7 @@ export default function Navbar() {
               className="text-gray-300 hover:text-white"
               data-testid="nav-pricing"
             >
-              Pricing
+              Book a free demo
             </Button>
           </div>
 
@@ -80,7 +80,7 @@ export default function Navbar() {
                   className="text-gray-300 hover:text-white justify-start text-lg"
                   data-testid="nav-mobile-pricing"
                 >
-                  Pricing
+                  Book a free demo
                 </Button>
               </div>
             </SheetContent>
