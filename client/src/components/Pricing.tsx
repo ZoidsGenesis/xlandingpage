@@ -9,16 +9,13 @@ export default function Pricing() {
       <div className="max-w-2xl mx-auto px-4 md:px-8 lg:px-12 text-center">
         <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-6">
           <span className="bg-gradient-to-r from-purple-400 to-cyan-400 bg-clip-text text-transparent">
-            Pricing
+            Book a free demo
           </span>
         </h2>
 
         <div>
-          <p className="text-5xl md:text-6xl lg:text-7xl font-bold bg-gradient-to-r from-purple-400 to-cyan-400 bg-clip-text text-transparent mb-4 leading-tight pb-2">
-            Starting at $200
-          </p>
           <p className="text-lg md:text-xl text-gray-400">
-            Most servers go live in 7–14 days. Book a 20-min call for a same-day quote and see a demo of the bots we've made
+            Get a walkthrough of a couple of bots we've made and a bespoke plan that fits your needs
           </p>
         </div>
       </div>
